@@ -6,8 +6,8 @@
 
 # FOR DEVELOPERS:
 
-  1. CLONE REPO AT 
+  1. CLONE REPO
 
-  2. RUN "npm install"
+  2. RUN "npm install" from terminal
 
-  3. RUN "npm run start"
+  3. RUN "npm run start" from terminal
